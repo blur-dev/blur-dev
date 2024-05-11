@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ajay! <br/>
+<h1>Ajay Patel <br/>
 
 <h2> 🏎️ About Me: </h2>
 
