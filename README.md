@@ -7,7 +7,6 @@
 
 <h2> 🏎️ Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
 
 
 <h2> 🏎️ Connect with me:</h2>
