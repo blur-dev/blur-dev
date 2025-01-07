@@ -2,7 +2,7 @@
 
 <h2> 🏎️ About Me: </h2>
 
-- <b>Freshman at UCLA studying Lingusitics and Computer Science.</b>
+- <b>Sophomore at UCLA studying Lingusitics and Computer Science.</b>
 
 
 <h2> 🏎️ Projects:</h2>
